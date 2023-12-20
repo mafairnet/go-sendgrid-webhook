@@ -1,0 +1,16 @@
+{
+    "AuthKey": "AUTHKEY",
+    "Port": "PORT",
+    "DbServer": "DB_SERVER",
+    "DbPort": "DB_PORT",
+    "DbUsername": "DB_USER",
+    "DbPassword": "DB_PASWORD",
+    "DbSchema": "DB_SCHEMA",
+    "LogFileLocation":"FOLDER_LOCATION",
+    "DataStorageLocation":"FOLDER_LOCATION",
+    "SlackTockenAPI" : "TOKEN",
+    "SlackChannel" : "CHANNEL",
+    "SlackUserName" : "USER",
+    "SlackAvatar" : "AVATAR",
+    "AwsEnabled": true
+}
