@@ -18,7 +18,7 @@ func saveWebHookFile(account string, data string, timestamp int, eventType strin
 
 	//fileLocation := configuration.LogFileLocation + "/data/" + year + "/" + month + "/" + day + "/"
 	
-	fileLocation := configuration.DataStorageLocation + "/data/" + year + "/" + month + "/" + day + "/"
+	fileLocation := configuration.DataStorageLocation + year + "/" + month + "/" + day + "/"
 	
 	fmt.Printf("fileLocation: %v\n", fileLocation)
 
